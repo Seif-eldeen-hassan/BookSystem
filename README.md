@@ -1,11 +1,11 @@
 # BookSystem
-📚 Quantum Bookstore — Object-Oriented Book Management System
+Quantum Bookstore — Object-Oriented Book Management System
 This Java-based project simulates an extensible online bookstore that handles three types of books:
-- 📦 Paper Books — Have a stock quantity and can be shipped to a physical address.
-- 💾 EBooks — Digital files that can be delivered via email.
-- 📖 Demo/Showcase Books — Display-only books that are not purchasable.
+- Paper Books — Have a stock quantity and can be shipped to a physical address.
+- EBooks — Digital files that can be delivered via email.
+- Demo/Showcase Books — Display-only books that are not purchasable.
 
-✅ Key Features:
+Key Features:
 - Add Books: Add new books with details like ISBN, title, publication year, and price.
 - Buy Books: Purchase books by providing ISBN, quantity, email, and shipping address.
 - Reduces inventory (for physical books)
